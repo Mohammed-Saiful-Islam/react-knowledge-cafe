@@ -1,6 +1,6 @@
 [
     {
-      "id": "789012",
+      "id": "1",
       "cover": "https://i.ibb.co/prnP2Mq/9220547.jpg",
       "title": "Sands of Time",
       "author": "Benjamin Swift",
@@ -10,7 +10,7 @@
       "hashtags": ["#historicalfiction", "#romance", "#action"]
     },
     {
-      "id": "345678",
+      "id": "2",
       "cover": "https://i.ibb.co/prnP2Mq/9220547.jpg",
       "title": "Whispers in the Wind",
       "author": "Olivia Rivers",
@@ -20,7 +20,7 @@
       "hashtags": ["#mystery", "#thriller", "#suspense"]
     },
     {
-      "id": "901234",
+      "id": "3",
       "cover": "https://i.ibb.co/prnP2Mq/9220547.jpg",
       "title": "City of Dreams",
       "author": "Michael Greene",
@@ -30,7 +30,7 @@
       "hashtags": ["#scifi", "#dystopian", "#adventure"]
     },
     {
-      "id": "567890",
+      "id": "4",
       "cover": "https://i.ibb.co/prnP2Mq/9220547.jpg",
       "title": "Silent Shadows",
       "author": "Emily Stone",
