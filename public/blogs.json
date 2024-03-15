@@ -1,0 +1,43 @@
+[
+    {
+      "id": "789012",
+      "cover": "https://i.ibb.co/prnP2Mq/9220547.jpg",
+      "title": "Sands of Time",
+      "author": "Benjamin Swift",
+      "author_img": "https://i.ibb.co/7rFSJx5/girl.jpg",
+      "posted_date": "March 14, 2024",
+      "reading_time": 30,
+      "hashtags": ["#historicalfiction", "#romance", "#action"]
+    },
+    {
+      "id": "345678",
+      "cover": "https://i.ibb.co/prnP2Mq/9220547.jpg",
+      "title": "Whispers in the Wind",
+      "author": "Olivia Rivers",
+      "author_img": "https://i.ibb.co/7rFSJx5/girl.jpg",
+      "posted_date": "March 13, 2024",
+      "reading_time": 20,
+      "hashtags": ["#mystery", "#thriller", "#suspense"]
+    },
+    {
+      "id": "901234",
+      "cover": "https://i.ibb.co/prnP2Mq/9220547.jpg",
+      "title": "City of Dreams",
+      "author": "Michael Greene",
+      "author_img": "https://i.ibb.co/7rFSJx5/girl.jpg",
+      "posted_date": "March 12, 2024",
+      "reading_time": 35,
+      "hashtags": ["#scifi", "#dystopian", "#adventure"]
+    },
+    {
+      "id": "567890",
+      "cover": "https://i.ibb.co/prnP2Mq/9220547.jpg",
+      "title": "Silent Shadows",
+      "author": "Emily Stone",
+      "author_img": "https://i.ibb.co/7rFSJx5/girl.jpg",
+      "posted_date": "March 11, 2024",
+      "reading_time": 22,
+      "hashtags": ["#horror", "#mystery", "#supernatural"]
+    }
+  ]
+  
